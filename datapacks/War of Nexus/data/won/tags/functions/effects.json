@@ -1,6 +1,6 @@
 {
     "values":[
-        "won:effects/haste",
+        "won:effects/haste/trigger",
         "won:effects/strength/trigger",
         "won:effects/resistance",
         "won:effects/jump_boost"
