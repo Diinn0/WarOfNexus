@@ -2,7 +2,7 @@
     "values":[
         "won:effects/haste/trigger",
         "won:effects/strength/trigger",
-        "won:effects/resistance",
+        "won:effects/resistance/trigger",
         "won:effects/jump_boost"
     ]
 }
