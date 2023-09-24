@@ -1,1 +1,0 @@
-execute at @e[type=item,name="§3Resistance"] as @p[distance=..1] run function won:effects/resistance/run

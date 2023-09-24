@@ -1,0 +1,1 @@
+execute at @e[type=item,name="§aHaste"] as @p[distance=..1] run function won:powerup/haste/run
