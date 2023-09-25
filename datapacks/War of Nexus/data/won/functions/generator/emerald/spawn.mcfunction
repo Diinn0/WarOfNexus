@@ -1,0 +1,2 @@
+summon item 6.5 55 -21.5 {Motion:[0.0,0.3,0.0],CustomName:'"§aEmerald"',Health:4800,CustomNameVisible:1,Item:{Count:1,id:"emerald",tag:{display:{Name:'"§aEmerald"'}}}}
+scoreboard players set time5 time 0

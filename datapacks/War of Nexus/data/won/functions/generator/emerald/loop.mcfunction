@@ -1,0 +1,1 @@
+scoreboard players add time5 time 1
