@@ -1,5 +1,6 @@
 {
     "values":[
-        "#won:effects"
+        "#won:effects",
+        "#won:generator"
     ]
 }
