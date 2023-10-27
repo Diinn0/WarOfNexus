@@ -1,0 +1,1 @@
+scoreboard players add time3y time 1

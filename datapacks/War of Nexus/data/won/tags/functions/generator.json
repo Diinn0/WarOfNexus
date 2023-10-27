@@ -1,6 +1,7 @@
 {
     "values":[
         "won:generator/emerald/trigger",
-        "won:generator/diamond/trigger"
+        "won:generator/diamond/trigger",
+        "won:generator/gold/trigger"
     ]
 }

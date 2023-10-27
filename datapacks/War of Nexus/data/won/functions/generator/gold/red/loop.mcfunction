@@ -1,0 +1,1 @@
+scoreboard players add time3r time 1
